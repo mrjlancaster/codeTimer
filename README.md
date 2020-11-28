@@ -1,2 +1,2 @@
 # codeTimer
-Using performance.now to calculate the time of a code.
+Using performance.now to calculate the average time a function takes to run.
